@@ -27,10 +27,7 @@ Welcome!
 
 ## 📬 Get in Touch
 
-- Contact us [mailto](info@outsidethestack.net)
-
-
-
+E-mail: [info@outsidethestack.net](mailto:info@outsidethestack.net)
 
 
 
